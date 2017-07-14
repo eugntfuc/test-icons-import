@@ -1,4 +1,5 @@
 var MAP = {
+  Space: '\u0020',
   Hyphen: '\u002D',
   Underscore: '\u005F',
   Ellipsis: '\u2026',
